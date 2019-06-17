@@ -14,3 +14,4 @@ the "Constant Maturity Treasury Rates" or CMTs sourced from Bloomberg(BBG).
 - [Harnish Patel](https://www.linkedin.com/in/patel-harnish/)
 - [Goutham Bacha](https://www.linkedin.com/in/gouthambacha/)
 - [Laukik Tated ](https://www.linkedin.com/in/laukiktated/)
+- [Pridhvi Raj](https://www.linkedin.com/in/pridhviraj-r-596a00173/)
