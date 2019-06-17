@@ -1,5 +1,6 @@
 # YieldCurve_interpolation
-Yield curve Interpolation using cubic spline and nelson Seigel model
+Yield curve Interpolation using cubic spline and nelson Seigel model.
+
 [Code Link](https://github.com/supreeth8/YieldCurve_interpolation/blob/master/Yield_curve_interpolation.ipynb)
 
 ## Summary
@@ -10,6 +11,6 @@ Siegel Method for each day throughout the month based on the daily reference dat
 the "Constant Maturity Treasury Rates" or CMTs sourced from Bloomberg(BBG).
 
 #### Other creaters
-![Harnish Patel](https://www.linkedin.com/in/patel-harnish/)
-![Goutham Bacha](https://www.linkedin.com/in/gouthambacha/)
-![Laukik Tated }https://www.linkedin.com/in/laukiktated/
+- ![Harnish Patel](https://www.linkedin.com/in/patel-harnish/)
+- ![Goutham Bacha](https://www.linkedin.com/in/gouthambacha/)
+- ![Laukik Tated ](https://www.linkedin.com/in/laukiktated/)
