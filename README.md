@@ -3,6 +3,8 @@ Yield curve Interpolation using cubic spline and nelson Seigel model.
 
 [Code Link](https://github.com/supreeth8/YieldCurve_interpolation/blob/master/Yield_curve_interpolation.ipynb)
 
+![Report](https://github.com/supreeth8/YieldCurve_interpolation/blob/master/Project_report.pdf)
+
 ## Summary
 The aim of this project is to calibrate the daily yield curves based on the benchmark
 bonds of the Australian market for the month of December 2018. The yield curve will
