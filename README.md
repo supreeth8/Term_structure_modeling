@@ -11,6 +11,6 @@ Siegel Method for each day throughout the month based on the daily reference dat
 the "Constant Maturity Treasury Rates" or CMTs sourced from Bloomberg(BBG).
 
 #### Other creaters
-- ![Harnish Patel](https://www.linkedin.com/in/patel-harnish/)
-- ![Goutham Bacha](https://www.linkedin.com/in/gouthambacha/)
-- ![Laukik Tated ](https://www.linkedin.com/in/laukiktated/)
+- [Harnish Patel](https://www.linkedin.com/in/patel-harnish/)
+- [Goutham Bacha](https://www.linkedin.com/in/gouthambacha/)
+- [Laukik Tated ](https://www.linkedin.com/in/laukiktated/)
